@@ -1,0 +1,4 @@
+deployment:
+  image: gcr.io/google_containers/echoserver
+  tag: 1.8
+name: echoserver-deploy-2
